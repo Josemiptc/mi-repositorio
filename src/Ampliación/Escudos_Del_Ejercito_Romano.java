@@ -17,5 +17,6 @@ public class Escudos_Del_Ejercito_Romano {
             }
         }
         System.out.println(cuadradofinal);
+        // INCOMPLETO
     }
 }
