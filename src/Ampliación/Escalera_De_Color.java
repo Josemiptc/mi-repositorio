@@ -33,5 +33,7 @@ public class Escalera_De_Color {
             System.out.println("No se puede formar escalera.");
             System.exit(0);
         }
+
+        // SIN TERMINAR
     }
 }
